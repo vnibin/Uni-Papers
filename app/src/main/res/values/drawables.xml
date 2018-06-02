@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="University" type="drawable"></item>
+    <item name="Others" type="drawable"></item>
+    <item name="Logout" type="drawable"></item>
+    <item name="Exit" type="drawable"></item>
+
+</resources>
